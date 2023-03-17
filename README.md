@@ -1,16 +1,8 @@
-# tic_tac_toe
+# Flutter Festival by Google Developer Students' Club-BITS Pilani
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple Tic-Tac-Toe android mobile application that was created as a part of a 3-day workshop to teach students about Flutter and how to work around it.
+App features:
+  > Editable players' names
+  > Dark and Light mode
+  > An Undo button to revert back last move
+  > A rest button to clear all grids
